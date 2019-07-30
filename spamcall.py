@@ -2,6 +2,7 @@ print("""\
    __  __________  __
   /  |/  /  _/ _ \/ / | Make-It-Ring!
  / /|_/ // // , _/_/  | Author: P4kL0nc4t
+                                Mr.Zonk (numpang nick) :v
 /_/  /_/___/_/|_(_)   | https://github.com/p4kl0nc4t
 """)
 import thread
